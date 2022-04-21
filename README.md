@@ -1,16 +1,16 @@
 # SOLID Principles
 
+## YT Video
 https://amigoscode.hypg.es/solid-youtube
 ![solid](https://user-images.githubusercontent.com/40702606/164469254-1763ca82-0b20-4bbb-b250-e0389660b2e0.png)
 
-# SOLID 
+## SOLID 
 
 - Single Responsibility
 Each class should have only one sole purpose, and not be filled with excessive functionality
 
 - Open Closed
 Classes should be open for extension, closed for modification.
-
 In other words, you should not have to rewrite an existing class for implementing new features.
 
 - Liskov Substitution
